@@ -1,0 +1,20 @@
+<project-repositories>
+  <repositories>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>dm-projects</id>
+        <url>http://AZREPOMAVEN.ips.gob.cl:8080/repository/dm-projects/</url>
+        <source>PROJECT</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>local</id>
+        <url>/opt/rh/dm/repositories</url>
+        <source>LOCAL</source>
+      </metadata>
+    </repository>
+  </repositories>
+</project-repositories>
