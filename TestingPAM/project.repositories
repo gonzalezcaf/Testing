@@ -1,0 +1,20 @@
+<project-repositories>
+  <repositories>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>pam-projects</id>
+        <url>http://AZREPOMAVEN.ips.gob.cl:8080/repository/pam-projects/</url>
+        <source>PROJECT</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>local</id>
+        <url>/opt/rh/pam/repositories</url>
+        <source>LOCAL</source>
+      </metadata>
+    </repository>
+  </repositories>
+</project-repositories>
